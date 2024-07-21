@@ -1,5 +1,4 @@
-#!/usr/bin/python
-#coding:utf-8
+
 import json,sys
 from sklearn.svm import LinearSVC
 #from sklearn.ensemble import RandomForestClassifier
